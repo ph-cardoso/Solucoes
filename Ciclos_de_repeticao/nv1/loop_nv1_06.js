@@ -1,4 +1,4 @@
-/* Desenvolver uma função imprimeIntervalo() que receba 2 números como parâmetro e imprima todos os números que estão entre eles.*/
+/* 6) Desenvolver uma função imprimeIntervalo() que receba 2 números como parâmetro e imprima todos os números que estão entre eles.*/
 
 const numero1 = 12;
 const numero2 = 1;

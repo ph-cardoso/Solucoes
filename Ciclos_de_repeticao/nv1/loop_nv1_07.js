@@ -1,4 +1,4 @@
-/* Desenvolver um programa que percorra um array dado e  gere um novo array apenas com elementos distintos. Imprima na tela o array sem os elementos repetidos.
+/* 7) Desenvolver um programa que percorra um array dado e  gere um novo array apenas com elementos distintos. Imprima na tela o array sem os elementos repetidos.
 Array: arr = [1, 1, 1, 1, 3, 3, 4, 5, 6, 7, 7, 7, 7, 2, 3, 4, 5];*/
 
 const arr = [1, 1, 1, 1, 3, 3, 4, 5, 6, 7, 7, 7, 7, 2, 3, 4, 5];

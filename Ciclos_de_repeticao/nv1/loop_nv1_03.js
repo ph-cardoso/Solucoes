@@ -1,4 +1,4 @@
-/* Desenvolver um programa que efetue a soma de todos os números pares que são múltiplos de 21 e também são múltiplos de 15 que se encontram no conjunto dos números de 1 até 10000. Imprima o resultado e quantidade de iterações do seu loop.*/
+/* 3) Desenvolver um programa que efetue a soma de todos os números pares que são múltiplos de 21 e também são múltiplos de 15 que se encontram no conjunto dos números de 1 até 10000. Imprima o resultado e quantidade de iterações do seu loop.*/
 
 // Solução 1 (Utilizando matemática para otimizar o loop)
 

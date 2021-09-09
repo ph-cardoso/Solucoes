@@ -1,4 +1,4 @@
-/* Desenvolver um programa que conte a quantdade de elementos do array dado que estão presentes nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. Imprima o resultado da sua contagem.
+/* 4) Desenvolver um programa que conte a quantdade de elementos do array dado que estão presentes nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. Imprima o resultado da sua contagem.
 Array: arr = [2, 6, 8, 12, 25, 30, 31, 32, 33, 34, 35, 40, 50, 60, 62, 64, 65, 66, 67, 68, 70, 80, 91, 92, 97, 99, 100];*/
 
 const arr = [-5 ,0, 2, 6, 8, 12, 25, 30, 31, 32, 33, 34, 35, 40, 50, 60, 62, 64, 65, 66, 67, 68, 70, 80, 91, 92, 97, 99, 100, 101];

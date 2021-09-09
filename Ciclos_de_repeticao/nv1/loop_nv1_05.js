@@ -1,4 +1,4 @@
-/* Desenvolver um programa que calcule a quantidade de elementos pares e ímpares, a média aritmética dos elementos pares e dos elementos ímpares e a média aritmética de todos os elementos de um array dado.
+/* 5) Desenvolver um programa que calcule a quantidade de elementos pares e ímpares, a média aritmética dos elementos pares e dos elementos ímpares e a média aritmética de todos os elementos de um array dado.
 Array: arr = [2, 6, 8, 12, 17, 25, 30, 31, 32, 33, 34, 37, 40, 50, 60, 62, 64, 65, 66, 68, 69, 70, 78, 82, 93, 97, 99, 100, 102, 118]; */
 
 const arr = [2, 6, 8, 12, 17, 25, 30, 31, 32, 33, 34, 37, 40, 50, 60, 62, 64, 65, 66, 68, 69, 70, 78, 82, 93, 97, 99, 100, 102, 118];
